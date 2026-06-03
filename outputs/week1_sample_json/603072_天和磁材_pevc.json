@@ -1,0 +1,113 @@
+{
+  "company": {
+    "company_name": "包头天和磁材科技股份有限公司",
+    "stock_code": "603072",
+    "exchange": "SSE",
+    "board": "主板",
+    "listing_date": "未披露",
+    "prospectus_title": "包头天和磁材科技股份有限公司首次公开发行股票并在主板上市招股说明书",
+    "prospectus_date": "未披露"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2016-05",
+      "date_type": "协议签署日",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "南通朗润园投资中心（有限合伙）",
+          "investor_short_name": "朗润园",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 十六、本次发行前涉及的对赌协议及清理情况 （一）与朗润园对赌协议具体内容及实际执行情况、解除情况、清理情况",
+      "source_page": "95-96",
+      "evidence_text": "2016 年 5 月，天津天和、袁文杰及其他 22 名自然人股东（“甲方”）与朗润园（“乙方”）、发行人（“丙方”）签署《有关南通朗润园投资中心（有限合伙）与包头天和磁材技术有限责任公司投资协议书》",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 2,
+      "event_date": "2019-03",
+      "date_type": "未说明",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "中车泛海智能制造投资（天津）合伙企业（有限合伙）",
+          "investor_short_name": "中车泛海",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 十六、本次发行前涉及的对赌协议及清理情况 （三）与中车泛海对赌协议具体内容及实际执行情况、解除情况、清理情况",
+      "source_page": "99-100",
+      "evidence_text": "2019 年 3 月，天津天和、袁文杰、袁擘、袁易（“甲方”）与中车泛海（“乙方”）、发行人（“丙方”）签署《袁文杰、袁擘、袁易、天津天和盈亚科技有限公司与中车泛海智能制造投资（天津）合伙企业（有限合伙）关于包头天和磁材科技股份有限公司增资扩股之投资协议之补充协议》",
+      "confidence": "medium"
+    },
+    {
+      "event_order": 3,
+      "event_date": "2019-12",
+      "date_type": "未说明",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "天津同历宏阳三号企业管理咨询中心（有限合伙）",
+          "investor_short_name": "同历宏阳",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 十六、本次发行前涉及的对赌协议及清理情况 （四）与同历宏阳对赌协议具体内容及实际执行情况、解除情况、清理情况",
+      "source_page": "102",
+      "evidence_text": "2019年12 月，天津天和、袁文杰、袁擘、袁易（“甲方”）与同历宏阳（“乙方”）、发行人（“丙方”）签署《袁文杰、袁擘、袁易、天津天和盈亚科技有限公司与天津同历宏阳三号企业管理咨询中心（有限合伙）关于包头天和磁材科技股份有限公司增资扩股之投资协议之补充协议》",
+      "confidence": "medium"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "partial",
+    "review_status": "unchecked"
+  }
+}

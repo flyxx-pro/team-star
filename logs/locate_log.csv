@@ -1,0 +1,9 @@
+﻿company_name,stock_code,matched_keywords,sections_found,first_vc_page,last_vc_page,total_pages_parsed,candidate_pages,candidate_chars,candidate_text_path,status
+云汉芯城,301563,发行人基本情况; 历史沿革; 股东情况; 前十名股东; 控股股东及实际控制人; 股权结构,6,6,133,200,141,74072,outputs\week1_candidate_texts\301563_云汉芯城_candidate.txt,success
+黄山谷捷,301581,发行人基本情况; 股东情况; 前十名股东; 控股股东及实际控制人; 股权结构,5,6,59,200,125,82510,outputs\week1_candidate_texts\301581_黄山谷捷_candidate.txt,success
+天和磁材,603072,发行人基本情况; 历史沿革; 历次增资; 历次股权转让; 股东情况; 前十名股东; 本次发行前后的股本结构; 股权结构,8,7,75,200,104,68816,outputs\week1_candidate_texts\603072_天和磁材_candidate.txt,success
+友升股份,603418,发行人基本情况; 历史沿革; 股东情况; 前十名股东; 发行人设立情况; 股权结构,6,6,74,200,103,47021,outputs\week1_candidate_texts\603418_友升股份_candidate.txt,success
+赛分科技,688758,发行人基本情况; 股东情况; 前十名股东; 控股股东及实际控制人; 本次发行前后的股本结构; 股权结构,6,7,82,200,105,58953,outputs\week1_candidate_texts\688758_赛分科技_candidate.txt,success
+影石创新,688775,发行人基本情况; 历次增资; 股东情况; 前十名股东; 股权结构,5,9,100,200,130,62990,outputs\week1_candidate_texts\688775_影石创新_candidate.txt,success
+大鹏工业,920091,发行人基本情况; 股东情况; 前十名股东; 控股股东及实际控制人; 本次发行前后的股本结构; 股权结构,6,5,147,200,123,75328,outputs\week1_candidate_texts\920091_大鹏工业_candidate.txt,success
+三协电机,920100,发行人基本情况; 历史沿革; 股东情况; 前十名股东; 本次发行前后的股本结构; 股权结构,6,5,39,200,135,93692,outputs\week1_candidate_texts\920100_三协电机_candidate.txt,success

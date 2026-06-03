@@ -1,0 +1,46 @@
+# API Key
+.env
+
+# PDF files (too large, not required by task book)
+PDF_Data/
+
+# MinerU parsed JSON (too large, intermediate files)
+MinerU_Output/
+
+# Candidate texts (too large, generated from MinerU)
+outputs/week1_candidate_texts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Excel / Word (generated reports)
+*.xlsx
+*.docx
+*.pptx
+
+# Temp files
+_test_*.py
+_debug_*.py
+_analyze_*.py
+_verify_*.py
+_check_*.py
+_generate_*.py
+
+# Old project files
+src/
+main.py
+generate_stats.py
+run_generate_stats.py
+requirements.txt
+.env.example

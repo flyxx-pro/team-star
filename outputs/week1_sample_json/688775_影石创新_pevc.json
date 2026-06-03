@@ -1,0 +1,161 @@
+{
+  "company": {
+    "company_name": "影石创新科技股份有限公司",
+    "stock_code": "688775",
+    "exchange": "SSE",
+    "board": "科创板",
+    "listing_date": "未披露",
+    "prospectus_title": "影石创新科技股份有限公司首次公开发行股票并在科创板上市招股说明书",
+    "prospectus_date": "未披露"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2019-10-31",
+      "date_type": "股东会决议日",
+      "event_type": "股权转让",
+      "disclosed_round": "未披露",
+      "inferred_round": "Pre-IPO轮",
+      "round_inference_basis": "该次股权转让发生在公司股改基准日（2019年10月31日）前后，且转让价格16.46元/注册资本，系参照最近一期增资价格20.58元/注册资本的一定折扣，属于上市前最后一轮融资，通常可推断为Pre-IPO轮。",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": 16.46,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "参照公司最近一期增资价格20.58元/注册资本的一定折扣，并经各方协商后确定",
+      "investors": [
+        {
+          "investor_original_name": "领誉基石",
+          "investor_short_name": "领誉基石",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "知盛投资",
+          "investor_short_name": "知盛投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "利得鑫投",
+          "investor_short_name": "利得鑫投",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "山东龙兴",
+          "investor_short_name": "山东龙兴",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "德朴投资",
+          "investor_short_name": "德朴投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "华金创盈",
+          "investor_short_name": "华金创盈",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "朗玛十四号",
+          "investor_short_name": "朗玛十四号",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "威明投资",
+          "investor_short_name": "威明投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "中证投资",
+          "investor_short_name": "中证投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "金石智娱",
+          "investor_short_name": "金石智娱",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "伊敦传媒",
+          "investor_short_name": "伊敦传媒",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "天正投资",
+          "investor_short_name": "天正投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "source_section": "第四节 公司基本情况 之 九、（五）申报前12个月新增股东情况",
+      "source_page": "106-108",
+      "evidence_text": "2019年10月31日，深圳岚锋召开董事会并形成决议，同意岚烽管理以2,950.1036万元的对价向领誉基石、知盛投资转让注册资本179.1978万元；CYZone以574.6517万元的对价向利得鑫投、山东龙兴转让注册资本34.9060万元；QM101以3,747.9552万元的对价向利得鑫投、德朴投资、华金创盈、朗玛十四号、威明投资转让注册资本227.6616万元；苏宁润东以5,365.8204万元的对价向中证投资、金石智娱、伊敦传媒、天正投资、德朴投资转让注册资本325.9354万元，并据此修订公司章程。本次股权转让的价格为16.46元/注册资本，系参照公司最近一期增资价格20.58元/注册资本的一定折扣，并经各方协商后确定。",
+      "confidence": "high"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "partial",
+    "review_status": "unchecked"
+  }
+}

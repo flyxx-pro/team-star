@@ -1,0 +1,283 @@
+{
+  "company": {
+    "company_name": "云汉芯城（上海）互联网科技股份有限公司",
+    "stock_code": "301563",
+    "exchange": "SZSE",
+    "board": "创业板",
+    "listing_date": "未披露",
+    "prospectus_title": "云汉芯城（上海）互联网科技股份有限公司首次公开发行股票并在创业板上市招股说明书",
+    "prospectus_date": "未披露"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2018-06-12",
+      "date_type": "协议签署日",
+      "event_type": "增资及股权转让",
+      "disclosed_round": "未披露",
+      "inferred_round": "C轮",
+      "round_inference_basis": "根据招股书披露，2018年6月增资及股权转让对应投后估值约13.5亿元，且后续2020年5月增资对应投后估值约21亿元，2020年9月增资对应投后估值约25.2亿元，结合融资轮次递进规律，推断2018年6月为C轮融资。",
+      "total_investment_amount": 150750000,
+      "currency": "CNY",
+      "share_price": 29.13,
+      "pre_money_valuation": null,
+      "post_money_valuation": 1350000000,
+      "valuation_basis": "招股书原文：'上述增资和股权转让的每股价格约为29.13元，对应发行人整体投后估值约为13.5亿元。'",
+      "investors": [
+        {
+          "investor_original_name": "国科瑞华",
+          "investor_short_name": "国科瑞华",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 74120000,
+          "shares_acquired": 2544787,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "CASREV FUND",
+          "investor_short_name": "CASREV FUND",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 18000000,
+          "shares_acquired": 618000,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "中科贵银",
+          "investor_short_name": "中科贵银",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 15840000,
+          "shares_acquired": 543840,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "夏东",
+          "investor_short_name": "夏东",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": 2040000,
+          "shares_acquired": 70040,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "南山富海",
+          "investor_short_name": "南山富海",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 30000000,
+          "shares_acquired": 1030000,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "珠海拓域",
+          "investor_short_name": "珠海拓域",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 10000000,
+          "shares_acquired": 343333,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "富海节能",
+          "investor_short_name": "富海节能",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 15000000,
+          "shares_acquired": 515000,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "临港投资",
+          "investor_short_name": "临港投资",
+          "investor_type": "政府基金",
+          "is_pevc": "yes",
+          "investment_amount": 8000000,
+          "shares_acquired": 274667,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 10750000,
+          "shares_acquired": 369083,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 三、发行人股份公司设立后的股东变化情况 （二）2018年6月至7月，股份公司增加注册资本暨第二次股权转让",
+      "source_page": "59-60",
+      "evidence_text": "2018年6月12日，发行人与国科瑞华、CASREV FUND、中科贵银、夏东、南山富海、珠海拓域、曾烨、刘云锋、为赛咨询、力源信息、东方富海、芜湖富海、深创投、天健创投、镇江红土、昆山红土、富海深湾、富海节能、临港投资、鸿迪投资签署了《关于云汉芯城（上海）互联网科技股份有限公司之增资与股权转让协议》，约定该协议相关方对发行人增资，以及受让发行人股份事宜。根据该协议，国科瑞华以现金7,412万元认缴新增注册资本254.4787万元；CASREV FUND以现金1,800万元的等值美元认缴新增注册资本61.8万元；中科贵银以现金1,584万元认缴新增注册资本54.384万元；夏东以现金204万元认缴新增注册资本7.004万元；南山富海以现金3,000万元认缴新增注册资本103万元；珠海拓域以现金1,000万元认缴新增注册资本34.3333万元。同时，该协议还约定，曾烨将其持有的发行人51.5万股股份转让予富海节能，转让价格为1,500万元；曾烨将其持有的发行人18.025万股股份转让予临港投资，转让价格为524.9994万元；刘云锋将其持有的发行人9.4417万股股份转让予临港投资，转让价格为275.006万元；刘云锋将其持有的发行人36.9083万股股份转让予鸿迪投资，转让价格为1,075万元。上述增资和股权转让的每股价格约为29.13元，对应发行人整体投后估值约为13.5亿元。",
+      "confidence": "high"
+    },
+    {
+      "event_order": 2,
+      "event_date": "2020-05-20",
+      "date_type": "协议签署日",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "D轮",
+      "round_inference_basis": "根据招股书披露，2020年5月增资对应投后估值约21亿元，高于2018年6月融资的13.5亿元，且低于2020年9月融资的25.2亿元，结合融资轮次递进规律，推断为D轮融资。",
+      "total_investment_amount": 50000000,
+      "currency": "CNY",
+      "share_price": 44.23,
+      "pre_money_valuation": null,
+      "post_money_valuation": 2100000000,
+      "valuation_basis": "招股书原文：'此次增资每股价格约为44.23元，对应发行人整体投后估值约为21亿元。'",
+      "investors": [
+        {
+          "investor_original_name": "火炬电子",
+          "investor_short_name": "火炬电子",
+          "investor_type": "产业资本",
+          "is_pevc": "yes",
+          "investment_amount": 50000000,
+          "shares_acquired": 1130488,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 三、发行人股份公司设立后的股东变化情况 （四）2020年5月，股份公司第二次增资",
+      "source_page": "62",
+      "evidence_text": "2020年5月20日，召开2020年第二次临时股东大会并通过决议，同意发行人的注册资本由4,635万元增至4,748.0488万元。根据发行人与火炬电子于2020年5月20日签署的《关于云汉芯城（上海）互联网科技股份有限公司之增资协议》，火炬电子以现金5,000万元认购上述新增股份113.0488万股。此次增资每股价格约为44.23元，对应发行人整体投后估值约为21亿元。",
+      "confidence": "high"
+    },
+    {
+      "event_order": 3,
+      "event_date": "2020-09-15",
+      "date_type": "股东会决议日",
+      "event_type": "增资及股权转让",
+      "disclosed_round": "未披露",
+      "inferred_round": "E轮",
+      "round_inference_basis": "根据招股书披露，2020年9月增资及股权转让对应投后估值约25.2亿元，为IPO前最后一轮融资，结合融资轮次递进规律，推断为E轮融资。",
+      "total_investment_amount": 70000000,
+      "currency": "CNY",
+      "share_price": 51.6,
+      "pre_money_valuation": null,
+      "post_money_valuation": 2520000000,
+      "valuation_basis": "招股书原文：'此次增资及股权转让的每股价格约为51.6元，对应发行人整体投后估值约为25.2亿。'",
+      "investors": [
+        {
+          "investor_original_name": "厦门西堤",
+          "investor_short_name": "厦门西堤",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": 50000000,
+          "shares_acquired": 968990,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "中小企业基金",
+          "investor_short_name": "中小企业基金",
+          "investor_type": "政府基金",
+          "is_pevc": "yes",
+          "investment_amount": 20000000,
+          "shares_acquired": 387596,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "郦韩英",
+          "investor_short_name": "郦韩英",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "沈笑彦",
+          "investor_short_name": "沈笑彦",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "衣嘉平",
+          "investor_short_name": "衣嘉平",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "余满芬",
+          "investor_short_name": "余满芬",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "崔振南",
+          "investor_short_name": "崔振南",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "福建开京",
+          "investor_short_name": "福建开京",
+          "investor_type": "产业资本",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "湘裕君源",
+          "investor_short_name": "湘裕君源",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 三、发行人股份公司设立后的股东变化情况 （五）2020年9月，股份公司第三次增资和第四次股权转让",
+      "source_page": "63-64",
+      "evidence_text": "2020年9月15日，发行人召开2020年第三次临时股东大会并通过决议，同意发行人的注册资本由4,748.0488万元增至4,883.7074万元。其中，厦门西堤以5,000.00万元认购公司新增股份96.899万股，96.899万元计入股本，剩余部分计入资本公积；中小企业基金以2,000.00万元认购新增股份38.7596万股，38.7596万元计入股本，剩余部分计入资本公积。此外，公司股东曾烨、刘云锋、秦国君、李文发与郦韩英、沈笑彦、衣嘉平、余满芬、崔振南、鸿迪投资、福建开京、湘裕君源等8位自然人、法人主体签署股份转让协议，转让股份合计1,659,535股。此次增资及股权转让的每股价格约为51.6元，对应发行人整体投后估值约为25.2亿。",
+      "confidence": "high"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked"
+  }
+}

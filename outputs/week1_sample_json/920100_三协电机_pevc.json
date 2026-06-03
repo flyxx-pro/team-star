@@ -1,0 +1,61 @@
+{
+  "company": {
+    "company_name": "常州三协电机股份有限公司",
+    "stock_code": "920100",
+    "exchange": "BSE",
+    "board": "北交所",
+    "listing_date": "未披露",
+    "prospectus_title": "常州三协电机股份有限公司招股说明书",
+    "prospectus_date": "未披露"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2022-08-09",
+      "date_type": "验资日",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "Pre-IPO轮",
+      "round_inference_basis": "该次发行发生在公司挂牌新三板后、申报北交所IPO前，且引入了外部PE机构稳正景明和长泽创投，符合Pre-IPO轮特征。",
+      "total_investment_amount": 23744000,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "稳正景明",
+          "investor_short_name": "稳正景明",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "长泽创投",
+          "investor_short_name": "长泽创投",
+          "investor_type": "VC",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 之 二、发行人挂牌期间的基本情况 之 （八）报告期内发行融资情况 之 1、2022年股票发行",
+      "source_page": "32",
+      "evidence_text": "2022年8月15日，苏亚金诚出具《验资报告》（苏亚锡验[2022]7号），经审验，截至2022年8月9日，公司已收到稳正景明、长泽创投缴纳的出资款2,374.40万元。",
+      "confidence": "high"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "partial",
+    "review_status": "unchecked"
+  }
+}

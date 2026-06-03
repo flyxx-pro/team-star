@@ -1,0 +1,274 @@
+{
+  "company": {
+    "company_name": "苏州赛分科技股份有限公司",
+    "stock_code": "688758",
+    "exchange": "SSE",
+    "board": "科创板",
+    "listing_date": "",
+    "prospectus_title": "苏州赛分科技股份有限公司首次公开发行股票并在科创板上市招股说明书",
+    "prospectus_date": "2025-01-06"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2021-04-20",
+      "date_type": "工商变更日",
+      "event_type": "增资及股权转让",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 185000000,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "国寿疌泉",
+          "investor_short_name": "国寿疌泉",
+          "investor_type": "政府基金",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "复星惟盈",
+          "investor_short_name": "复星惟盈",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "唐斌",
+          "investor_short_name": "唐斌",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "张敏",
+          "investor_short_name": "张敏",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "朱勤华",
+          "investor_short_name": "朱勤华",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 二、公司设立及报告期内的股本和股东变化情况",
+      "source_page": "55-56",
+      "evidence_text": "2021年2月22日，赛分有限召开股东会并作出决议，同意黄学英将其持有的赛分有限58.2243万元注册资本分别转让给复星惟盈、朱勤华、唐斌及张敏。2021年2月25日，赛分有限召开股东会并作出决议，同意公司注册资本增加342.6769万元至2,750.6769万元。新增的342.6769万元注册资本由国寿疌泉、复星惟盈、唐斌、张敏以人民币1.85亿元认购。2021年4月20日，公司就股权转让和增资事项办理完毕工商变更登记手续。",
+      "confidence": "high"
+    },
+    {
+      "event_order": 2,
+      "event_date": "2021-07-10",
+      "date_type": "协议签署日",
+      "event_type": "股权转让",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 0,
+      "currency": "CNY",
+      "share_price": 0,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "高新同华",
+          "investor_short_name": "高新同华",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": 0,
+          "shares_acquired": 220000,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 二、公司设立及报告期内的股本和股东变化情况",
+      "source_page": "57-58",
+      "evidence_text": "2021年7月10日，赛分有限召开股东会并作出决议，同意黄学英将其持有的公司0.8%的注册资本22.00万元以人民币0元的价格转让给高新同华。本次股权转让系为解决公司与高新同华之间的业绩承诺与补偿事宜。",
+      "confidence": "high"
+    },
+    {
+      "event_order": 3,
+      "event_date": "2021-11-10",
+      "date_type": "工商变更日",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "源峰磐赛",
+          "investor_short_name": "源峰磐赛",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "珠海峦恒",
+          "investor_short_name": "珠海峦恒",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "高瓴祈睿",
+          "investor_short_name": "高瓴祈睿",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "国药中生",
+          "investor_short_name": "国药中生",
+          "investor_type": "产业资本",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "圣成投资",
+          "investor_short_name": "圣成投资",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "国药二期",
+          "investor_short_name": "国药二期",
+          "investor_type": "产业资本",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "圣祁投资",
+          "investor_short_name": "圣祁投资",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "夏尔巴二期",
+          "investor_short_name": "夏尔巴二期",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "甘李药业",
+          "investor_short_name": "甘李药业",
+          "investor_type": "产业资本",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        },
+        {
+          "investor_original_name": "吴征涛",
+          "investor_short_name": "吴征涛",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 二、公司设立及报告期内的股本和股东变化情况",
+      "source_page": "59",
+      "evidence_text": "2021年10月28日，赛分科技召开2021年第一次临时股东大会，决议同意赛分科技增发股份4,243,901股，新增股份由新增股东源峰磐赛、珠海峦恒、高瓴祈睿、国药中生、圣成投资、国药二期、圣祁投资、夏尔巴二期、甘李药业、吴征涛认购。2021年11月10日，赛分科技取得了江苏省市场监督管理局换发的《营业执照》。",
+      "confidence": "high"
+    },
+    {
+      "event_order": 4,
+      "event_date": "2021-12-06",
+      "date_type": "工商变更日",
+      "event_type": "增资",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 15000000,
+      "currency": "CNY",
+      "share_price": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "",
+      "investors": [
+        {
+          "investor_original_name": "聚贝投资",
+          "investor_short_name": "聚贝投资",
+          "investor_type": "PE",
+          "is_pevc": "yes",
+          "investment_amount": 15000000,
+          "shares_acquired": 117886,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "未退出"
+        }
+      ],
+      "source_section": "第四节 发行人基本情况 二、公司设立及报告期内的股本和股东变化情况",
+      "source_page": "60-61",
+      "evidence_text": "2021年11月22日，赛分科技召开2021年第二次临时股东大会，决议同意赛分科技增发股份117,886股，新增股份由新增股东聚贝投资以人民币1,500万元认购。2021年12月6日，赛分科技取得了江苏省市场监督管理局换发的《营业执照》。",
+      "confidence": "high"
+    }
+  ],
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked"
+  }
+}
