@@ -1,0 +1,8 @@
+﻿file,total_records,subscription_flow_count,equity_snapshot_count,has_t0,json_errors,schema_errors,cross_checks,status
+301563_云汉芯城.jsonl,102,15,87,True,0,0,4,pass
+301581_黄山谷捷.jsonl,27,3,24,True,0,0,2,pass
+603418_友升股份.jsonl,45,13,32,True,0,0,2,pass
+688758_赛分科技.jsonl,25,11,14,True,0,0,4,pass
+688775_影石创新.jsonl,4,2,2,True,0,0,2,pass
+920100_三协电机.jsonl,20,17,3,True,0,0,2,pass
+920116_星图测控.jsonl,14,3,11,True,0,0,1,pass
