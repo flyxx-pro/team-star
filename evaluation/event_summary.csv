@@ -1,0 +1,9 @@
+﻿code,company,board,subscription_flow,null_values,equity_snapshot,has_t0,share_transfer_flow,review_needed
+001282,三联锻造,主板,1,0,14,True,3,no
+603418,友升股份,主板,13,10,32,True,5,yes
+301581,黄山谷捷,创业板,3,0,24,True,3,no
+301563,云汉芯城,创业板,15,0,87,True,8,no
+688758,赛分科技,科创板,11,11,14,True,2,yes
+688775,影石创新,科创板,2,1,40,True,1,yes
+920100,三协电机,北交所,17,17,3,True,10,yes
+920116,星图测控,北交所,3,0,11,True,2,no
