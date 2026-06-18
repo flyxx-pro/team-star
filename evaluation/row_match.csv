@@ -1,0 +1,15 @@
+﻿date,investor,demo_shares,auto_shares,shares_match,demo_amount,auto_amount,amount_match,demo_price,auto_price,price_match,all_match
+增资日期,认购方,认购数量(万股),MISSING,False,认购金额(万元),MISSING,False,认购价格(元/股),MISSING,False,False
+2020-09-27,金浦临港基金,840,840,True,7000,7000,True,8.3333,8.3333,True,True
+2020-09-27,金浦科创基金,360,360,True,3000,3000,True,8.3333,8.3333,True,True
+2020-09-27,上海骁墨,180,180,True,1500,1500,True,8.3333,8.3333,True,True
+2022-12-19,杉晖创业,297.3333,360,False,10000,12107.628,False,33.6323,33.6323,True,False
+2022-12-19,上海联炻,297.3333,60,False,10000,2017.938,False,33.6323,33.6323,True,False
+2022-12-19,安吉璞颉,148.6667,60,False,5000,2017.938,False,33.6323,33.6323,True,False
+2022-12-19,财投晨源,89.2,90,False,3000,3026.907,False,33.6323,33.6323,True,False
+2022-12-19,深圳达晨创程,86.5984,86.4,False,2912.5,2905.83072,False,33.6323,33.6323,True,False
+2022-12-19,杉创智至,59.4667,72,False,2000,2421.5256,False,33.6323,33.6323,True,False
+2022-12-19,杭州达晨创程,51.959,51.84,False,1747.5,1743.498432,False,33.6323,33.6323,True,False
+2022-12-19,达晨财汇,29.7333,360,False,1000,12107.628,False,33.6323,33.6323,True,False
+2022-12-19,达晨财智,29.7333,30.24,False,1000,1017.040752,False,33.6323,33.6323,True,False
+2022-12-19,财智创赢,10.1093,10.08,False,340,339.013584,False,33.6323,33.6323,True,False
