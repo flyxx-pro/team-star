@@ -1,0 +1,5 @@
+{"code":"603418","company":"友升股份","check":"total_before_after","transition":"t0->t1","prev_total":12000,"change_amount":1380,"expected":13380,"pdf_disclosed":13380,"diff":0,"status":"pass","note":"2020-09-27增资：金浦临港840+金浦科创360+上海骁墨180=1380，12000+1380=13380"}
+{"code":"603418","company":"友升股份","check":"total_before_after","transition":"t1->t2","prev_total":13380,"change_amount":1100.1333,"expected":14480.1333,"pdf_disclosed":14480.1333,"diff":0,"status":"pass","note":"2022-12-19增资：10个认购方合计1100.1333万股"}
+{"code":"603418","company":"友升股份","check":"per_shareholder","shareholder":"泽升贸易","transition":"t0->t1","prev_shares":8976,"change":0,"expected":8976,"pdf_disclosed":8976,"diff":0,"status":"pass","note":"老股东未参与增资，持股不变，比例稀释"}
+{"code":"603418","company":"友升股份","check":"per_shareholder","shareholder":"金浦临港基金","transition":"t0->t1","prev_shares":0,"change":840,"expected":840,"pdf_disclosed":840,"diff":0,"status":"pass","note":"新增股东，认购=持股"}
+{"code":"603418","company":"友升股份","check":"per_shareholder","shareholder":"杉晖创业","transition":"t1->t2","prev_shares":0,"change":297.3333,"expected":297.3333,"pdf_disclosed":297.3333,"diff":0,"status":"pass","note":"2022年新增股东"}
