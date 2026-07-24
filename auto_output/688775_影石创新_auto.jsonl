@@ -1,3 +1,354 @@
-{"record_type": "subscription_flow", "PDF页码": 63, "增资日期": "2015-07-09", "认购方": "北京岚锋", "认购数量(万股)": null, "认购金额(万元)": 1000.0, "认购价格(元/股)": null, "原文证据": "2015 年 7 月 9 日，北京岚锋以货币出资方式设立深圳岚锋，公司注册资本 1,000.00 万元。", "source": "auto", "review_status": "unchecked", "investor_type": "创始人", "is_pevc": "no", "出资额(万元注册资本)": 1000.0, "持股比例": 100.0}
-{"record_type": "subscription_flow", "PDF页码": 63, "增资日期": "2015-07-09", "认购方": "北京岚锋", "认购数量(万股)": null, "认购金额(万元)": 1000.0, "认购价格(元/股)": null, "原文证据": "2015 年 7 月 9 日，北京岚锋以货币出资方式设立深圳岚锋，公司注册资本 1,000.00 万元。", "source": "auto", "review_status": "unchecked", "investor_type": "创始人", "is_pevc": "no", "出资额(万元注册资本)": 1000.0, "持股比例": 100.0}
-{"record_type": "share_transfer_flow", "PDF页码": "第65-66页", "转让日期": "2023-03-24", "转让方": "德朴投资", "受让方": "汇智同裕", "转让数量(万股)": 287.0651, "转让价款(万元)": 1462.7126, "转让价格(元/股)": 5.095, "原文证据": "2023年1月28日和2023年2月17日，影石创新分别召开董事会和股东大会并形成决议，同意德朴投资以1,462.7126万元的对价向汇智同裕转让股本287.0651万元，并据此修订公司章程。上述股权变动系原股东之间的股权转让行为，不属于最近一年新增股东的情形；本次股权转让未造成发行人实际控制人的变更，未对发行人的股权结构的稳定性和持续盈利能力造成不利影响。", "review_status": "unchecked", "source": "auto"}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "北京岚锋", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0, "出资额(万元注册资本)": 1000.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "北京岚锋", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 29.9376, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "EARN ACE", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 13.3239, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "QM101", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 9.4001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "香港迅雷", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 8.7327, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "岚沣管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.0667, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金同达", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.9909, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "厦门富凯", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.7003, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "澜烽管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.2534, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "伊敦传媒", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.7125, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "领誉基石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.667, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "中证投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.5313, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "金石智娱", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.5312, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "芜湖旷沄", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.7737, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛六号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6682, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "天正投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.625, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛五号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5013, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "深圳麦高", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛九号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.2648, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "德朴投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.7974, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛十四号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.625, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "利得鑫投", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.6, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "汇智同裕", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.5321, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金创盈", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4375, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "岚烽管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4051, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "威明投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.25, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "山东龙兴(SS)", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1954, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "知盛投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1768, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "北京岚锋", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 29.9376, "出资额(万元注册资本)": 2909.5963, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "EARN ACE", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 13.3239, "出资额(万元注册资本)": 1294.9351, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "QM101", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 9.4001, "出资额(万元注册资本)": 913.5841, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "香港迅雷", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 8.7327, "出资额(万元注册资本)": 848.7142, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "岚沣管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.0667, "出资额(万元注册资本)": 395.2401, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金同达", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.9909, "出资额(万元注册资本)": 387.8661, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "厦门富凯", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.7003, "出资额(万元注册资本)": 359.628, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "澜烽管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.2534, "出资额(万元注册资本)": 316.1921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "伊敦传媒", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.7125, "出资额(万元注册资本)": 263.6237, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "领誉基石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.667, "出资额(万元注册资本)": 259.2063, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "中证投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.5313, "出资额(万元注册资本)": 246.0118, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "金石智娱", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.5312, "出资额(万元注册资本)": 246.0083, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "芜湖旷沄", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.7737, "出资额(万元注册资本)": 172.3849, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛六号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6682, "出资额(万元注册资本)": 162.1267, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "天正投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.625, "出资额(万元注册资本)": 157.9312, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛五号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5013, "出资额(万元注册资本)": 145.9141, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "深圳麦高", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3001, "出资额(万元注册资本)": 126.3558, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛九号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.2648, "出资额(万元注册资本)": 122.9215, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "德朴投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.7974, "出资额(万元注册资本)": 77.4985, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛十四号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.625, "出资额(万元注册资本)": 60.7422, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "利得鑫投", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.6, "出资额(万元注册资本)": 58.3132, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "汇智同裕", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.5321, "出资额(万元注册资本)": 51.7155, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金创盈", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4375, "出资额(万元注册资本)": 42.5193, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "岚烽管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4051, "出资额(万元注册资本)": 39.37, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "威明投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.25, "出资额(万元注册资本)": 24.2963, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "山东龙兴(SS)", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1954, "出资额(万元注册资本)": 18.986, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "知盛投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1768, "出资额(万元注册资本)": 17.1799, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "北京岚锋", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 29.9376, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "EARN ACE", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 13.3239, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "QM101", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 9.4001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "香港迅雷", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 8.7327, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "岚沣管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.0667, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金同达", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.9909, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "厦门富凯", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.7003, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "澜烽管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.2534, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "伊敦传媒", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.7125, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "领誉基石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.667, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "中证投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.5313, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "金石智娱", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.5312, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "芜湖旷沄", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.7737, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛六号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6682, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "天正投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.625, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛五号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5013, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "汇智同裕", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3295, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "深圳麦高", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛九号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.2648, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛十四号", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.625, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "利得鑫投", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.6, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金创盈", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4375, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "岚烽管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4051, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "威明投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.25, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "山东龙兴(SS)", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1954, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "知盛投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1768, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "中山影石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "一路高飞", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "上海影石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "广州影石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "深圳影石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "珠海影翎", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "德国影石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "日本影石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "香港影石科技", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "荷兰岚锋科技", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "美国影石科技", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "上海亦我", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.6154}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "融光光学", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 20.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘靖康", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 79.57, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘亮", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 6.5, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "陈永强", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 5.93, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "高飞", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.5, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "贾顺", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "姜文杰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "郭奕滨", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "深圳斓枫科技有限公司", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0025, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘靖康", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 90.3504, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "袁博", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.5883, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "袁帅", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.1765, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张伟俊", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4706, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "邓焜", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "邱康华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "何红烨", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "苏坦", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "谢亮", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李兆琪", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张明智", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "厉扬", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "符峥", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "许睿", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "那强", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.3921, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "林达浩", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.2353, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "苏洋", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.2353, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "倪爽", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.2353, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "旷江涛", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.2353, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "区浩勤", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赖涛", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "覃雪竹", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "付皇波", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李玉宗", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "周训武", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "何维乾", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "唐广明", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "谢赖平", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "ALEJANDRO GARCÍA DEL ARCO", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李运", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "郝晓辉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "许承玉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1569, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "聂登辉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1177, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘靖康", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "29.9376%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 23.8202, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "4.0667%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.6743, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "4.0667%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "3.2534%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0835, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "3.2534%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0478, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "0.4051%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0159, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "3.7003%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.1089, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "3.7003%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0011, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "1.3295%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.9515, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "1.3001%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1857, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "3.7003%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "1.3295%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.0001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "1.3001%", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2e-05, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "IDG", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "QIMING VENTURE", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 96.94, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "QIMING MANAGING", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.06, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "维尔京迅雷", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 100.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛峰创业投资有限公司", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵雅齐", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 6.1643, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "宋宝库", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.6232, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "郝凤莉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.6832, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "乔淑红", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.5445, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "丁双阳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.3904, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王乐宇", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.0821, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵玉华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.0821, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "何广霞", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.7739, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘逸虹", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.4195, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "陈锡楠", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.326, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "薛芃", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.3116, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "卢健", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.3116, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "角艳萍", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.3116, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王锦", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.1575, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "曹爱兰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.0342, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张涛", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.0034, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "马素兰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.8493, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "樊俊宏", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6952, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李杰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6952, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张风荣", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6952, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "彭彬", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6952, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "范秋燕", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王琳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "周光源", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "宋佳乐", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张国庆", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘京", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王义杰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李宝林", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘超", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "吕琪", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "梁蓉蓉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "卢北燕", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "石成梁", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘晓杰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王浩", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "秦洁", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵俊玲", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "杨桂伶", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "黄山", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵元城", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "蒋明", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "侯京芝", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "郭华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "冯芳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "毕延钢", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "徐春霞", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "贺乃新", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5411, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛峰创业投资有限公司", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张冬梅", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 13.6949, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王慧", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 6.8474, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张宇", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.1085, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘润香", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.739, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "何倬", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.739, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "原宏斌", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.739, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "宗铁城", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.739, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张晓丹", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.2596, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "高娟", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.1912, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵红京", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.0541, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张倩", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.0541, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "杨宝华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9173, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "寇丽明", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.8077, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王燕平", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.7803, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张明英", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.7119, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "杨军", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6433, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "齐济", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6433, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李凤兰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5064, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵建芬", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "高雁", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵岩峰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "汪文继", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "仲慧", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张相荣", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赖成", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张蜀遥", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朱云霞", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "孙淑贤", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张海波", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "郭延绪", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "胡麟", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "徐庆梅", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王键", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "尚秀兰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "马晓艳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "葛延鹏", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "连玉景", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "苗郁东", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张杰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "杨莉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李礼", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "苏伟", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "石慧", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "马耀平", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "葛京安", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张黎明", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王明华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张劼", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘沙沙", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3695, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛峰创业投资有限公司", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李毅勇", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 7.3196, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "孙丽杰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 5.1237, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "丁皎", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.3917, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "深圳汉尼康科技有限公司", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.9278, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "董赞", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.9278, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张瀚", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.9278, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘小金", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.9278, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "陈抒云", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.9278, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "熊俊", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.9278, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "熊珍", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.9278, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "校园梦(北京)教育投资有限公司", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.7082, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "叶平", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.4887, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李红梅", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.3423, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王义敏", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.3423, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "周月林", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.3423, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王义杰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.0495, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "范坤芳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9909, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李虹", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9031, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘鹏辉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.7567, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "石靖连", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6103, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "孙立新", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.6103, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "冒海军", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李莉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "袁维娟", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "谢莉莉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "闻大为", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "杨小卫", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "曹莉华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "段予龙", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "聂臻", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张继薇", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "黄海阳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王剑峰", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "黄显英", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赖子连", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "高启军", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "章义伍", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赖成", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "邹虎", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "庞进京", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王乔", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "宋强", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "陈蓉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "周顺", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "周大慧", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘耿荣", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "杨浸", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4639, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朗玛峰创业投资有限公司", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "李凡", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 13.6658, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "周继权", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 10.3188, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "高晓宏", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 7.9376, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘鹏辉", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.7625, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "付精华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.9688, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "吴建军", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.712, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "熊珍", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.6459, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "夏亮", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.6459, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘小金", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.6459, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "戚学红", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.6459, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "高文茹", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.6459, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "朱在英", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.6459, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "胡欣", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.6459, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.249, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张新华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9844, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王映华", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9844, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "汪敏", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9844, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "宋清虹", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9844, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "苏璐瑶", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9844, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "陈仲道", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9844, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵旭明", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.9182, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "刘青云", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5875, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "俞凌梅", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5875, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "孙美艳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.5346, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王晓飞", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.4552, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "潘虹", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "罗双艳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "郭佳", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "霍志", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "常力元", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "常瑞倩", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "林振宇", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "张恂", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "王民秀", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "金涛", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "康蕊", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 1.3229, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "北京岚锋", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 29.9376, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "EARN ACE", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 13.3239, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "QM101", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 9.4001, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "香港迅雷", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 8.7327, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "岚沣管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 4.0667, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金同达", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.9909, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "厦门富凯", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.7003, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "澜烽管理", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.2534, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "伊敦传媒", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.7125, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "领誉基石", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.667, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "山东龙兴(SS)", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1954}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "EARN ACE", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 13.3239}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "QM101", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 9.4001}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "香港迅雷", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 8.7327}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "知盛投资", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1768}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "山东龙兴(SS)", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.1954}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "华金创盈", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.4375}

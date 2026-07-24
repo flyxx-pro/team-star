@@ -1,2 +1,17 @@
-{"record_type": "share_transfer_flow", "PDF页码": "第33页", "转让日期": "2017-10-09", "转让方": "罗永红", "受让方": "牛威", "转让数量(万股)": 400.0, "转让价款(万元)": 0.0, "转让价格(元/股)": 0.0, "原文证据": "罗永红将其持有的星图测控有限 20%股权（对应400万元认缴注册资本，其中 12.50万元已实缴）转让予牛威", "review_status": "unchecked", "source": "auto"}
-{"record_type": "share_transfer_flow", "PDF页码": "第33页", "转让日期": "2017-10-09", "转让方": "王金林", "受让方": "吴功友", "转让数量(万股)": 400.0, "转让价款(万元)": 0.0, "转让价格(元/股)": 0.0, "原文证据": "王金林将其持有的星图测控有限 20%股权（对应 400 万元认缴注册资本，其中12.50 万元已实缴）转让予吴功友", "review_status": "unchecked", "source": "auto"}
+{"record_type": "subscription_flow", "增资日期": "2023-12", "认购方": "策星银河", "source": "markdown_table_auto", "review_status": "auto", "认购数量(万股)": 279.0, "rowspan_processed": true, "PDF页码": 2023}
+{"record_type": "subscription_flow", "增资日期": "2023-12", "认购方": "策星逐日", "source": "markdown_table_auto", "review_status": "auto", "认购数量(万股)": 171.0, "rowspan_processed": true, "PDF页码": 2023}
+{"record_type": "subscription_flow", "增资日期": "2023-12", "认购方": "幸福二期", "source": "markdown_table_auto", "review_status": "auto", "认购数量(万股)": 300.0, "rowspan_processed": true, "PDF页码": 2023}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "中科星图", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 46.36, "持股数(万股)": 3825.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "策星九天", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 28.43, "持股数(万股)": 2345.08, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "幸福一期", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 11.12, "持股数(万股)": 917.42, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "策星揽月", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 5.0, "持股数(万股)": 412.5, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "幸福二期", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.64, "持股数(万股)": 300.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "策星银河", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 3.38, "持股数(万股)": 279.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "策星逐日", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 2.07, "持股数(万股)": 171.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "策星银河", "source": "markdown_table_auto", "review_status": "auto", "持股数(万股)": 279.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "策星逐日", "source": "markdown_table_auto", "review_status": "auto", "持股数(万股)": 171.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "幸福二期", "source": "markdown_table_auto", "review_status": "auto", "持股数(万股)": 300.0, "rowspan_processed": true}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "赵浩然", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 0.01, "出资额(万元注册资本)": 1.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "星图繁星", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 34.25, "出资额(万元注册资本)": 2470.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "幸福三期", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 26.21, "出资额(万元注册资本)": 1890.0}
+{"record_type": "equity_snapshot", "时点": null, "股东名称": "幸福四期", "source": "markdown_table_auto", "review_status": "auto", "持股比例": 39.52, "出资额(万元注册资本)": 2849.7}
