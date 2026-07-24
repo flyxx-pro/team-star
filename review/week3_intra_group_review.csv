@@ -1,9 +1,0 @@
-reviewer,reviewee,company_name,stock_code,board,listing_date_check,prospectus_url_check,version_check,code_reproducible,section_location_reasonable,json_has_evidence,main_problem,review_comment,fix_status
-刘宇轩,苏宇垚,友升股份,603418,主板,,,,,,,,"2020年3笔完全匹配教师示范，2022年10笔认购方名称有差异，需人工核对PDF第45页确认哪个版本正确","fixed"
-刘宇轩,苏宇垚,赛分科技,688758,科创板,,,,,,,,"股权存量153条数据量大但14/15认缴记录认购数量为null，MinerU未捕获表格数值","pending"
-刘宇轩,苏宇垚,三协电机,920100,北交所,,,,,,,,"2/3认缴记录null值，2023年轮次有数值(318.5万股/1723.09万元)但认购方名称未披露","pending"
-刘宇轩,苏宇垚,影石创新,688775,科创板,,,,,,,,"从2+2提升到2+40后存量覆盖完整，认缴仅2条可能公司历史融资确实少","pending"
-刘宇轩,苏宇垚,云汉芯城,301563,创业板,,,,,,,,"15+87数据完整，无null值","pass"
-刘宇轩,苏宇垚,黄山谷捷,301581,创业板,,,,,,,,"数据完整","pass"
-刘宇轩,苏宇垚,三联锻造,001282,主板,,,,,,,,"仅1条认缴，需确认公司是否确实只有1次增资","pending"
-刘宇轩,苏宇垚,星图测控,920116,北交所,,,,,,,,"数据完整","pass"

@@ -1,9 +1,0 @@
-﻿company_name,stock_code,candidate_text_path,model_name,json_path,events_count,investors_count,validation_issues,status,error_message
-云汉芯城,301563,outputs\week1_candidate_texts\301563_云汉芯城_candidate.txt,deepseek-chat,outputs\week1_sample_json\301563_云汉芯城_pevc.json,3,20,0,success,
-黄山谷捷,301581,outputs\week1_candidate_texts\301581_黄山谷捷_candidate.txt,deepseek-chat,outputs\week1_sample_json\301581_黄山谷捷_pevc.json,2,3,0,success,
-天和磁材,603072,outputs\week1_candidate_texts\603072_天和磁材_candidate.txt,deepseek-chat,outputs\week1_sample_json\603072_天和磁材_pevc.json,3,3,0,success,
-友升股份,603418,outputs\week1_candidate_texts\603418_友升股份_candidate.txt,deepseek-chat,outputs\week1_sample_json\603418_友升股份_pevc.json,2,13,0,success,
-赛分科技,688758,outputs\week1_candidate_texts\688758_赛分科技_candidate.txt,deepseek-chat,outputs\week1_sample_json\688758_赛分科技_pevc.json,4,17,0,success,
-影石创新,688775,outputs\week1_candidate_texts\688775_影石创新_candidate.txt,deepseek-chat,outputs\week1_sample_json\688775_影石创新_pevc.json,1,12,0,success,
-大鹏工业,920091,outputs\week1_candidate_texts\920091_大鹏工业_candidate.txt,deepseek-chat,outputs\week1_sample_json\920091_大鹏工业_pevc.json,1,2,0,success,
-三协电机,920100,outputs\week1_candidate_texts\920100_三协电机_candidate.txt,deepseek-chat,outputs\week1_sample_json\920100_三协电机_pevc.json,1,2,0,success,
